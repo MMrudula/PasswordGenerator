@@ -69,6 +69,10 @@ print("hello Team")
 
 
 
+# Add addtional features :  created by name  , profile , pics names, footer - "  " , colors 
 
-
-
+# git add -A → Adds all files to your commit 
+# git commit -m ‘commit message’ → Creates a commit message to send to github
+# git push → Pushes the commit message and code to github 
+# ns: Add a feature to notify users of upcoming deadlines.
+#ex: notification banner 

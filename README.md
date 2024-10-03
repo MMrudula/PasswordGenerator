@@ -62,7 +62,7 @@ These are the essential functionalities that will serve as the foundation of you
 ### Development Tools:
 ##### Visual Studio Code (VS Code): As the primary code editor for writing and debugging the code.
 
-## Project Timeline: ???
+## Project Timeline: 
 ##### Week 4: Brainstorming, designing, and project proposal submission.
 ##### Week 5: Implement core features (task creation, management, and viewing).
 ##### Week 6: Implement advanced features.
@@ -70,25 +70,24 @@ These are the essential functionalities that will serve as the foundation of you
 ##### Week 8: Finalize the project, implement any remaining features, submit to GitHub
 ##### Week 9: Prepare the presentation slides and submit the final project.
 
-## Roles and Responsibilities: ???
-##### Name 1: 
-##### Name 2: 
-##### Name 3
+## Roles and Responsibilities:
+##### Everyline was a team work 
 
+## Expected Challenges: 
+##### Adding colors 
+##### Password strength
 
-## Expected Challenges: ???
-
-
-
-## Success Criteria: ???
-
+## Success Criteria: 
+##### Successfully created user interface for generating one time-password using steamlit application.
 
 
 ## References/Resources:
 References, tutorials, or resources you plan to use during the project.
+##### Brooke Richards Trainning
 ##### "Python Programming for Beginners" book
 ##### W3Schools Tutorials
 ##### SQLite documentation
 ##### Online Tkinter tutorials
 ##### Google search 
 ##### Medium
+##### udemy course python
